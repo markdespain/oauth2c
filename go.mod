@@ -1,4 +1,4 @@
-module github.com/cloudentity/oauth2c
+module github.com/markdespain/oauth2c
 
 go 1.24
 
