@@ -1,4 +1,4 @@
-module github.com/markdespain/oauth2c
+module github.com/markdespain/oauth2c/tree/change_module
 
 go 1.24
 
